@@ -3,6 +3,14 @@
 
 **Computer Engineering Student**  
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmadalhomsi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadalhomsi&theme=nightowl&hide_border=false)<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadalhomsi&theme=midnight_purple)<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmadalhomsi&theme=midnight_purple)<br/>
+
 
 # 💻 Tech Stack:
 
@@ -56,11 +64,6 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahmadalhomsi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadalhomsi&theme=nightowl&hide_border=false)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadalhomsi&theme=midnight_purple)
 
 
 ## 🏆 GitHub Trophies
