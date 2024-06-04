@@ -6,10 +6,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ahmadalhomsi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadalhomsi&theme=nightowl&hide_border=false)<br/>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadalhomsi&theme=midnight_purple)<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmadalhomsi&theme=midnight_purple)<br/>
+
 
 
 # 💻 Tech Stack:
@@ -71,6 +70,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ahmadalhomsi&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmadalhomsi&theme=midnight_purple)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmadalhomsi&icon=0&color=0)](https://visitcount.itsvg.in)
