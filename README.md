@@ -1,12 +1,18 @@
-
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=100&duration=3000&lines=Hi+There!+👋;+I'm+Ahmad!;Welcome+To+My+Profile;" />
+</h1>
 
 **Computer Engineering Student**  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ahmadalhomsi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadalhomsi&theme=nightowl&hide_border=false)<br/>
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadalhomsi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadalhomsi&theme=midnight_purple)<br/>
+
+
 
 
 
@@ -76,5 +82,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmadalhomsi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- <img src="https://github.com/Ahmadalhomsi/Ahmadalhomsi/blob/main/shin.gif" width="200"> -->
+<!--
+
+<img src="https://github.com/Ahmadalhomsi/Ahmadalhomsi/blob/main/shin.gif" width="200">
+
+-->
 
