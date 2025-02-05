@@ -2,7 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=100&duration=3000&lines=Hi+There!+👋;+I'm+Ahmad!;Welcome+To+My+Profile;" />
 </h1>
 
-**Computer Engineering Student**  
+# ⚡ About Me  
+I am a **Computer Engineer** with a background in **video editing**, passionate about:  
+- **Web Development** and **Infrastructure**  
+- **Mobile** and **Desktop Development** (Cross-Platform)  
+- **Prompt Engineering**  
+
+I am a fast learner, always eager to explore new technologies and enhance my skills.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadalhomsi&theme=nightowl&hide_border=false)<br/>
@@ -10,6 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadalhomsi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadalhomsi&theme=midnight_purple)<br/>
+
 
 
 # 💻 Tech Stack:
