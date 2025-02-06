@@ -90,6 +90,8 @@ I am a fast learner, always eager to explore new technologies and enhance my s
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmadalhomsi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+NOTE: The projects that deployed on Vercel is only for demo, not the real project that I have published.
+
 <!--
 
 <img src="https://github.com/Ahmadalhomsi/Ahmadalhomsi/blob/main/shin.gif" width="200">
