@@ -89,7 +89,7 @@ I am a fast learner, always eager to explore new technologies and enhance my s
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmadalhomsi&icon=0&color=0)](https://visitcount.itsvg.in)
-NOTE: The projects that deployed on Vercel are only for demos, not the real projects that I have published.
+NOTE: The projects deployed on Vercel are only a demo version, not the real projects I have published.
 
 <!--
 
