@@ -3,12 +3,13 @@
 </h1>
 
 # ⚡ About Me  
-I am a **Computer Engineer** with a background in **video editing**, passionate about:  
-- **Web Development** and **Infrastructure**  
-- **Mobile** and **Desktop Development** (Cross-Platform)  
-- **Prompt Engineering**  
+I am a **Computer Engineer** with a diverse skill set spanning technical development and creative problem-solving. My expertise includes:  
+- **Full-Stack Web Development** and **Cloud Infrastructure** design.  
+- **Cross-Platform Development** (Mobile & Desktop).  
+- **Prompt Engineering** for AI/ML applications.  
+- **DevOps Practices** and **Cybersecurity** solutions.  
 
-I am a fast learner, always eager to explore new technologies and enhance my skills.
+I combine a strong technical foundation with a passion for learning, enabling me to adapt quickly to emerging technologies and deliver innovative solutions.  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadalhomsi&theme=nightowl&hide_border=false)<br/>
