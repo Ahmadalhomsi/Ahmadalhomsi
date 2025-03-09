@@ -18,7 +18,9 @@ I combine a strong technical foundation with a passion for learning, enabling me
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadalhomsi&theme=midnight_purple)<br/>
 
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalhomsi\&layout=compact)
+-->
 
 # 💻 Tech Stack:
 
